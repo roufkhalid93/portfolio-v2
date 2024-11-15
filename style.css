@@ -715,7 +715,7 @@ span {
         display: none;
     }
 
-    .navbar .active {
+    .navbar.active {
         display: block;
     }
 
@@ -745,7 +745,7 @@ span {
         margin: 0 auto;
     }
 
-    .home img {
+    .home-img {
         width: 56vw;
     }
 
