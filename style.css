@@ -763,4 +763,10 @@ span {
     .services-container {
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .heading {
+        font-size: 5.3rem;
+        text-align: center;
+        margin: 5rem 0;
+    }
 }
